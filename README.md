@@ -1,5 +1,12 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fastai/fastbook/master)  
-[English](./README.md) / [Spanish](./README_es.md) / [Korean](./README_ko.md) / [Chinese](./README_zh.md) / [Bengali](./README_bn.md) / [Indonesian](./README_id.md)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fastai/fastbook/master)
+
+# Introduction
+This repository is forked from fastai's fastbook. It holds notebooks that are slightly modified in order to run easily on Google Colab and to provide a few additional steps or explainations which I found useful. 
+
+The notebooks in `wip-nbs` are those I made or used in the course of reading and studying fastbook and are all work in progress.
+
+The text below is the original README.md from the original repo at fastai.
+
 
 # The fastai book
 
