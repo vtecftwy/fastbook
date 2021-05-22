@@ -1,7 +1,9 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fastai/fastbook/master)
 
 # Introduction
-This repository is forked from fastai's fastbook. It holds notebooks that are slightly modified in order to run easily on Google Colab and to provide a few additional steps or explainations which I found useful. A few additional notebooks are also added for some of the chapters, which provides tutorial and resources for important concepts in the coresponding chapter.
+This repository is forked from fastai's fastbook. It holds notebooks that are modified in order to run easily on Google Colab and to provide a few additional steps or explainations which I found useful. A few additional notebooks are also added for some of the chapters, which provides tutorial and resources for important concepts in the coresponding chapter.
+
+Notebooks with additional resources are stored in `resources`.
 
 The notebooks in `wip-nbs` are those I made or used in the course of reading and studying fastbook and are all work in progress.
 
